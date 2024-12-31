@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+
+}
+
+canvas{
+
+    border: solid;
+}
+.canvas{
+ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+
+}
+
+.zone1{
+    width: 100%;
+    height: 100px;
+    background-color: #131416;
+
+}
+.texte1{
+    color: white;
+    text-align: center;
+    font-size: 24px;
+}
+
+.score{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #cccccc;
+    width: 100px;
+    
+    
+
+}
